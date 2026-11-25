@@ -1,4 +1,4 @@
-# ColorOS Bottom Swipe 
+# ColorOS 3 Button Bottom Swipe Navigation 
 
 Three horizontal navigation marks for the OnePlus 16. In the default order, swipe up from the left mark for **Recents**, from the centre for **Home**, and from the right for **Back**. A short tap also works. The active mark lifts while you drag, and an optional pulse plays as your finger crosses the swipe threshold.
 
