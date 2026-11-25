@@ -1,4 +1,4 @@
-# ColorOS 3 Button Bottom Swipe Navigation 
+# Bottom Swipe for OnePlus
 
 Three horizontal navigation marks for the OnePlus 16. In the default order, swipe up from the left mark for **Recents**, from the centre for **Home**, and from the right for **Back**. A short tap also works. The active mark lifts while you drag, and an optional pulse plays as your finger crosses the swipe threshold.
 
@@ -25,6 +25,7 @@ The public release uses the application ID `io.github.wiredroid.bottomswipenav`.
 ## Controls
 
 - **Button order** — place Back on the left or right. Home stays in the centre.
+- **Home long press** — touch and hold the centre mark to run the phone's Home hold action. On a supported setup with Circle to Search enabled, this opens [Circle to Search](https://support.google.com/android/answer/14508957).
 - **Appearance** — opacity, mark length, line thickness, and equal spacing.
 - **Colour** — presets, automatic system colour, or a custom hex value. Examples are `#ABC`, `#AABBCC`, and `#AABBCC80`. The final two digits of an eight-digit `#` value set opacity.
 - **Swipe feedback** — turn the pulse on or off and adjust its intensity. The pulse fires at the swipe threshold. Navigation completes on release.
