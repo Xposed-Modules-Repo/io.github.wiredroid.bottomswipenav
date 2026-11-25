@@ -14,7 +14,7 @@ Other OnePlus models, other ColorOS builds, and OPPO phones are untested. See th
 
 ## Installation
 
-1. Download and install `Bottom-Swipe-for-OnePlus.apk` from [GitHub Releases](https://github.com/wiredroid/bottom-swipe-oneplus/releases).
+1. Download and install `Bottom-Swipe-for-OnePlus.apk`. [GitHub Releases](https://github.com/wiredroid/bottom-swipe-oneplus/releases) · [LSPosed repository releases](https://github.com/Xposed-Modules-Repo/io.github.wiredroid.bottomswipenav/releases)
 2. In LSPosed, enable **Bottom Swipe for OnePlus**, scope it to **System UI**, and restart System UI or reboot Android.
 3. Select **Buttons** in ColorOS System navigation to activate the custom marks. Open **Bottom Swipe for OnePlus** from the launcher or from the module’s settings in LSPosed. Sliders show changes in the preview as you move them and apply to the system bar when released.
 
