@@ -25,7 +25,7 @@ The public release uses the application ID `io.github.wiredroid.bottomswipenav`.
 ## Controls
 
 - **Button order** — place Back on the left or right. Home stays in the centre.
-- **Home long press** — touch and hold the centre mark to run the phone's Home hold action. On a supported setup with Circle to Search enabled, this opens [Circle to Search](https://support.google.com/android/answer/14508957).
+- **Home long press** — touch and hold the centre mark, or swipe it up and hold your finger in place. Both run the phone's Home hold action, which opens [Circle to Search](https://support.google.com/android/answer/14508957) when enabled. A quick upward swipe still goes Home.
 - **Appearance** — opacity, mark length, line thickness, and equal spacing.
 - **Colour** — presets, automatic system colour, or a custom hex value. Examples are `#ABC`, `#AABBCC`, and `#AABBCC80`. The final two digits of an eight-digit `#` value set opacity.
 - **Swipe feedback** — turn the pulse on or off and adjust its intensity. The pulse fires at the swipe threshold. Navigation completes on release.
